@@ -1,3 +1,4 @@
+`portfolio_risk_modeling.ipynb`
 In this work, we build and estimate a portfolio multifactor risk  model from two perspectives: Time Series Risk Models and PCA (Principal Components Analysis) Risk Models.
 
 - For the Time Series Risk Models, we use the Fama and French 5-factor model. The latter is considered as a benchmark portfolio that includes return time series of five potential drivers of volatility: RM (Market Return), SMB (Small Minus Big), HML (High Minus Low), RMW (Robust Minus Weak) and CMA (Conservative Minus Aggressive). 
@@ -6,3 +7,6 @@ In this work, we build and estimate a portfolio multifactor risk  model from two
 
 
 This task is very important in the sense that it is usually a necessary preliminary task before moving towards portfolio optimization.
+
+
+- `stock_selection_based_on_diversification.ipynb`:  optimal diversification based on selecting stocks with the most balanced exposure to various risk factors. We employed two methods: sign entropy and traditional variance analysis.
