@@ -10,3 +10,6 @@ This task is very important in the sense that it is usually a necessary prelimin
 
 
 - `stock_selection_based_on_diversification.ipynb`:  optimal diversification based on selecting stocks with the most balanced exposure to various risk factors. We employed two methods: sign entropy and traditional variance analysis.
+
+
+- `import_and_clean_historic_data.py`: cleaning and selecting the universe.
